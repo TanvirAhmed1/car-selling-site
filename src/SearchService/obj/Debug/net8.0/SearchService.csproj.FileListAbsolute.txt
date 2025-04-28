@@ -35,3 +35,4 @@
 /home/di-admin/Desktop/Microservices/Auction/src/SearchService/obj/Debug/net8.0/SearchService.pdb
 /home/di-admin/Desktop/Microservices/Auction/src/SearchService/obj/Debug/net8.0/SearchService.genruntimeconfig.cache
 /home/di-admin/Desktop/Microservices/Auction/src/SearchService/obj/Debug/net8.0/ref/SearchService.dll
+/home/di-admin/Desktop/Microservices/Auction/src/SearchService/bin/Debug/net8.0/Data/auctions.json
