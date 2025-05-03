@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2KlWvvA54qWVKvu73yzQLLA1MbaVYNzrx+x2iz6ufgFs2fUnIqPSKCtzcdxX9R0RAPZ0zJM4S+UV94qIr7reVg==",
+  "dgSpecHash": "ouSnzhz7RzM=",
   "success": true,
   "projectFilePath": "/home/di-admin/Desktop/Microservices/Auction/src/AuctionService/AuctionService.csproj",
   "expectedPackageFiles": [
