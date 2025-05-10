@@ -106,3 +106,9 @@
 /home/di-admin/Desktop/Microservices/Auction/src/AuctionService/obj/Debug/net8.0/AuctionService.csproj.AssemblyReference.cache
 /home/di-admin/Desktop/Microservices/Auction/src/AuctionService/obj/Debug/net8.0/AuctionService.sourcelink.json
 /home/di-admin/Desktop/Microservices/Auction/src/AuctionService/obj/Debug/net8.0/AuctionS.72D7E915.Up2Date
+/home/di-admin/Desktop/Microservices/Auction/src/AuctionService/bin/Debug/net8.0/MassTransit.dll
+/home/di-admin/Desktop/Microservices/Auction/src/AuctionService/bin/Debug/net8.0/MassTransit.Abstractions.dll
+/home/di-admin/Desktop/Microservices/Auction/src/AuctionService/bin/Debug/net8.0/MassTransit.RabbitMqTransport.dll
+/home/di-admin/Desktop/Microservices/Auction/src/AuctionService/bin/Debug/net8.0/RabbitMQ.Client.dll
+/home/di-admin/Desktop/Microservices/Auction/src/AuctionService/bin/Debug/net8.0/Contracts.dll
+/home/di-admin/Desktop/Microservices/Auction/src/AuctionService/bin/Debug/net8.0/Contracts.pdb

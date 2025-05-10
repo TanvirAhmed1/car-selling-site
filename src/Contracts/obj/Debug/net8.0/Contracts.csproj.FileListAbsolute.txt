@@ -1,0 +1,12 @@
+/home/di-admin/Desktop/Microservices/Auction/src/Contracts/bin/Debug/net8.0/Contracts.deps.json
+/home/di-admin/Desktop/Microservices/Auction/src/Contracts/bin/Debug/net8.0/Contracts.dll
+/home/di-admin/Desktop/Microservices/Auction/src/Contracts/bin/Debug/net8.0/Contracts.pdb
+/home/di-admin/Desktop/Microservices/Auction/src/Contracts/obj/Debug/net8.0/Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/di-admin/Desktop/Microservices/Auction/src/Contracts/obj/Debug/net8.0/Contracts.AssemblyInfoInputs.cache
+/home/di-admin/Desktop/Microservices/Auction/src/Contracts/obj/Debug/net8.0/Contracts.AssemblyInfo.cs
+/home/di-admin/Desktop/Microservices/Auction/src/Contracts/obj/Debug/net8.0/Contracts.csproj.CoreCompileInputs.cache
+/home/di-admin/Desktop/Microservices/Auction/src/Contracts/obj/Debug/net8.0/Contracts.sourcelink.json
+/home/di-admin/Desktop/Microservices/Auction/src/Contracts/obj/Debug/net8.0/Contracts.dll
+/home/di-admin/Desktop/Microservices/Auction/src/Contracts/obj/Debug/net8.0/refint/Contracts.dll
+/home/di-admin/Desktop/Microservices/Auction/src/Contracts/obj/Debug/net8.0/Contracts.pdb
+/home/di-admin/Desktop/Microservices/Auction/src/Contracts/obj/Debug/net8.0/ref/Contracts.dll
